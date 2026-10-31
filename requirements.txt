@@ -1,0 +1,11 @@
+# Install with: python -m pip install -r requirements.txt
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.20,<1.0
+ultralytics==8.4.184
+streamlit>=1.40,<2.0
+requests>=2.32,<3.0
+pandas>=2.2,<4.0
+Pillow>=10.4,<13.0
+numpy>=1.26,<3.0
+opencv-python-headless>=4.10,<5.0
